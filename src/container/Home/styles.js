@@ -25,7 +25,7 @@ export const Container = styled.div`
 `;
 
 export const ButtonContainer = styled.div`
-  margin-top: 20px;
+  margin-top: 20px;  
 `;
 
 export const Button = styled.button`
